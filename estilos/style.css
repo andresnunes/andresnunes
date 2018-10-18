@@ -1,0 +1,359 @@
+@media screen and (max-width: 2000px){
+	.Cabeca{
+        padding-top: 10px;
+        height: 200px;
+    }   
+	.Titulo{
+		width: 46%;
+		height:180px;
+		padding: 4px;
+		margin: 6px;
+		display: inline;
+		float: left;
+		padding-left: 15px;
+		border: 0.5%;
+	}	
+	.Nome{
+		width: 100%;
+		padding: 2px;
+		text-align: center;
+		text-
+	}
+	.Menu{
+		width: 46%;
+		height:180px;
+		float: right;
+		padding-right: 10px;
+		margin:10px;
+	}
+	.Links li{
+		width:200px;
+		margin: 2%;
+	}
+	.Foto {
+        margin-top: 20px;
+		margin-left:20px;
+		margin-right:50px;
+		float: left;
+	}
+	.Menu2 {
+		width:50%;
+		height:200px;
+		float: right;
+        margin-top: 15px;
+	}   
+    .Menu2 div{
+	    font-size: 20px;
+	    display: inline-block;
+	    width:175px;
+	    height:175px;
+	    
+	    text-align: center;
+    }
+	.Menu li {
+		display: inline;
+	}
+    .ola {
+        width: 50%;
+	    float:right;  
+    }
+	.introducao{ 
+		width: 50%;
+		float:right;
+	}
+	.descricao{
+        margin-left: 50%;
+		width:50%;
+		float:right;
+	}
+	.Rodape{
+        padding-top: 10px;
+		width:100%;
+		display: inline-block;
+	}
+    .RodMenu {
+	    width:30%;
+	    height: 200px;
+	    float: left;	
+	    margin-left:8px;
+	    padding:1%;
+	    text-align: center;
+    }
+}
+
+
+@media screen and (max-width:1080px){    
+	.Links li { 
+        margin: 0%;
+        width: 80px;
+        
+    }
+    .ola {
+        margin-left: 15%;
+        float: left;
+    }
+    .introducao{ 
+		width: 50%;
+		float: left;
+        margin-left: 15%;
+	}
+    .descricao{
+        margin-left: 15%;
+		width:70%;
+        margin-right: 15%;
+		float: left;
+        margin-top:20px;
+        margin-bottom:30px;        
+	}
+    .Menu2 {
+		width:70%;
+		height:200px;
+        margin-left:15%;
+        margin-right:15%;
+		float: right;
+	}
+    .Menu2 div{
+	    display: inline-block;
+	    font-size: 20px;
+	    border-radius: 50%;
+	    width:175px;
+	    height:175px;
+	    line-height: 170px;
+	    text-align: center;
+    }
+    .Foto {
+		margin-left:20%;
+        margin-right:20%;
+        padding:2%;
+		float: left;
+	}
+    
+}
+
+
+@media screen and (max-width:910px){
+	.Cabeca {
+        width: 100%;
+        height: 230px;
+    }
+	.Titulo{
+		width: 100%;
+		height:100px;
+		padding: 4px;
+		margin: 6px;
+		display: inline;
+		float: left;
+	}
+	.Nome{
+		width: 100%;
+		padding: 2px;
+	}
+	.Menu{
+		width: 100%;
+		height: 50px;
+        padding: 0px;
+	}
+	.Menu li {
+		display: inline;
+	}
+    .Foto{
+		width: 400px;
+		height: 400px;
+	}
+    .ola {
+        width: 50%;
+	    float: left; 
+        margin-left: 10%; 
+    }
+    .introducao {
+        margin-left:10%;
+        margin-bottom: 20px;
+    }
+    .descricao{
+        margin-left:10%;
+    }
+}
+
+@media screen and (max-width: 780px){
+	.Cabeca {
+        width: 100%;
+        height: 230px;
+    }
+    .Titulo{
+		width: 100%;
+		height:100px;
+		padding: 4px;
+		margin: 6px;
+		display: inline;
+		float: left;
+	}
+	.Nome{
+		width: 100%;
+		padding: 2px;
+	}
+	.Menu{
+		width: 100%;
+		height: 50px;
+        padding: 0px;
+	}
+	.Menu li {
+		display: inline;
+	}
+    .ola {
+        margin-left: 15%;
+        float: left;
+    }
+    .introducao{ 
+		width: 50%;
+		float: left;
+        margin-left: 15%;
+	}
+    .descricao{
+        margin-left: 15%;
+		width:70%;
+        margin-right: 15%;
+		float: left;
+        margin-top:20px;
+        margin-bottom:30px;        
+	}
+    .Menu2 {
+		width:70%;
+		height:400px;
+        margin-left:15%;
+        margin-right:15%;
+		float: left;
+        
+	}
+    .Menu2 div{
+	    display: inline-block;
+	    font-size: 20px;
+	    border-radius: 50%;
+	    width:175px;
+	    height:175px;
+	    line-height: 170px;
+	    text-align: center;
+    }
+    .conhecimentos {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .curriculo {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .trabalhos {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    .Foto {
+		margin-left:20%;
+        margin-right:20%;
+        padding:2%;
+		float: left;
+	}   
+}
+
+
+@media screen and (max-width: 620px){
+    .introducao {
+        width: 60%;
+    }
+    .Foto {
+        margin-left: 50px;
+        margin-right: 50px;
+        padding: 2%;
+        float: left;
+    }
+    .Menu2 { height:550px;}
+    .conhecimentos {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .curriculo {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .trabalhos {
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .RodMenu {
+	    width:33%;
+    	height: 150px;
+    	float: left;	
+    	margin-left:0px;
+    	padding:0%;
+    	text-align: center;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .Foto {
+        margin-left: 36px;
+        margin-right: 36px;
+        padding: 1%;
+        float: left;
+    }
+    .introducao{ 
+		width: 70%;
+		float: left;
+        margin-left: 15%;
+	}
+}
+
+body {
+    background-color:#d8d8d8;
+}
+.Cabeca{
+	width: 100%;
+    background-color:#a2aaaa;     
+}
+.Titulo {
+	text-align: center;
+}
+.Menu {
+	text-align: center;
+}
+.Links {
+	height:100%;
+	width:100%;
+}
+.Links li {
+	width: 100px;
+	height: 70px;
+	display: inline-block; 
+	line-height: 80px;
+}
+.Corpo {
+    width:100%;
+    height:500px;
+}
+.Foto{
+    width: 400px;
+    height: 550px;
+}
+.ola {
+    font-size: 60px;   
+}
+.introducao{
+	font-size: 35px;	
+}
+.descricao{
+    font-size: 17px;
+}
+.Menu2 div{
+    border-radius: 50%;
+    line-height: 170px;
+}
+.curriculo{ background-color: #2E8B57;}
+.trabalhos{ background-color: #008080;}
+.conhecimentos{ background-color: #FF8C00;}
+.Rodape{
+    background-color:#a2aaaa;
+}
+
+.Rodape img{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
