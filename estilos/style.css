@@ -312,7 +312,7 @@ body {
     background-color:#d8d8d8;
 }
 .Cabeca{
-	width: 100%;
+	width: 150%;
         background-color:#a2aaaa;     
 }
 .Titulo {
@@ -357,6 +357,7 @@ body {
 .conhecimentos{ background-color: #FF8C00;}
 .Rodape{
     background-color:#a2aaaa;
+    width: 150%;
 }
 
 .Rodape img{
