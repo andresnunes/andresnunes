@@ -312,19 +312,24 @@
         float: left;
     }
 }
+
 body {
     background-color:#d8d8d8;
 }
+
 .Cabeca{
 	width: 100%;
         background-color:#a2aaaa;     
 }
+
 .Titulo {
 	text-align: center;
 }
+
 .Menu {
 	text-align: center;
 }
+
 .Links {
 	height:100%;
 	width:100%;
@@ -359,6 +364,7 @@ body {
 .curriculo{ background-color: #2E8B57;}
 .trabalhos{ background-color: #008080;}
 .conhecimentos{ background-color: #FF8C00;}
+
 .Rodape{
     background-color:#a2aaaa;
     width: 100%;
