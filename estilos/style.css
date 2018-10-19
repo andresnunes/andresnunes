@@ -301,6 +301,10 @@
 	}
 }
 @media screen and (max-width: 400px){
+	.Cabeca{
+        padding-top: 10px;
+        height: 250px;
+    } 
     .Foto {
         margin-left: 0px;
         margin-right: 0px;
