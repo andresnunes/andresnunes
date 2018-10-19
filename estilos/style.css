@@ -318,7 +318,6 @@ body {
 }
 
 .Cabeca{
-	width: 100%;
         background-color:#a2aaaa;     
 }
 
@@ -367,7 +366,6 @@ body {
 
 .Rodape{
     background-color:#a2aaaa;
-    width: 100%;
 }
 
 .Rodape img{
