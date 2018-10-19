@@ -306,7 +306,7 @@ body {
 }
 .Cabeca{
 	width: 100%;
-    background-color:#a2aaaa;     
+        background-color:#a2aaaa;     
 }
 .Titulo {
 	text-align: center;
@@ -329,8 +329,8 @@ body {
     height:500px;
 }
 .Foto{
-    width: 400px;
-    height: 550px;
+    width: 350px;
+    height: 500px;
 }
 .ola {
     font-size: 60px;   
